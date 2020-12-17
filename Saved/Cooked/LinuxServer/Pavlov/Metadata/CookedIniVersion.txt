@@ -1521,6 +1521,7 @@ Windows.Engine:/Script/Engine.RendererSettings:r.Shadow.UnbuiltPreviewInGame:0=F
 Windows.Engine:/Script/Engine.RendererSettings:r.GBufferFormat:0=1
 Windows.Engine:/Script/Engine.RendererSettings:r.Mobile.UseLegacyShadingModel:0=True
 Windows.Engine:/Script/Engine.RendererSettings:r.AllowOcclusionQueries:0=True
+Windows.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=True
 Windows.Engine:Messaging:bAllowDelayedMessaging:0=false
 Windows.Engine:InstalledPlatforms:HasInstalledPlatformInfo:0=true
 Windows.Engine:InstalledPlatforms:InstalledPlatformConfigurations:0=(PlatformName="Win64", Configuration="Development", PlatformType="Editor", bCanBeDisplayed=False)
